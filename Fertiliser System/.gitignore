@@ -1,0 +1,40 @@
+Data_to_consider/
+References/
+TEST_Project/
+.ipynb_checkpoints/
+.vscode/
+__pycache__/
+New Plant Diseases Dataset(Augmented)/
+Docs/
+# Machine Learning artifacts
+*.h5
+*.ckpt
+*.pb
+*.tflite
+*.onnx
+*.pkl
+*.joblib
+*.npz
+*.npy
+
+# Data files
+*.csv
+*.json
+*.xml
+*.xlsx
+*.tsv
+*.parquet
+*.feather
+*.db
+*.sqlite
+
+# Logs and checkpoints
+/logs/
+/checkpoints/
+/tensorboard/
+/wandb/
+/mlruns/
+
+# Environment
+.env
+.DS_Store
